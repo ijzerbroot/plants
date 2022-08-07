@@ -1,6 +1,6 @@
 # fhorak keyboard layout
 
-A modification of Dvorak that works better for bigrams like ls (for me at least).
+A modification of Dvorak that is more comfortable for words like `ls`, `ps -efl`, `select from`, `create` (for me at least).
 Increases comfort for statements that are often done in a hurry. Likely at the expense of worse performance on regular text... Caveat emptor
 
 ```
