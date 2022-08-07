@@ -4,9 +4,14 @@ A modification of Dvorak that is more comfortable for words like `ls, ps -efl, s
 This layout increases my comfort for statements that I often do in a hurry. 
 I dislike overloading my right pinky and using the bottom row. Regular Dvorak and Colemak lead to either one or the other of those issues for me.
 
-Anecdotal input of oft-used SQL and Unix-statements that I use showed 68% home-row and 24% top-row usage (just 8% is bottom row). Hand-balance is 43% left and 57% right.
-Regular Dvorak has less home-row usage in my sample text (62%) and overuses the right hand more. (39% left and 61% right).
-Colemak does notably worse for me at 15% bottom row usage and a hand-balance of 54% left and 46% right. 
+Anecdotal input of oft-used SQL and Unix-statements that I use indicated that this custom fhorak layout leads to somewhat better hand-balance, less pinky-use and increased home-row typing for me over regular Dvorak and does considerably better than Colemak.
+
+| Layout      | Left hand | Right Hand | Right Pinky | Home row | Top Row | Bottom Row |
+| ----------- | --------- | ---------- | ----------- | -------- | ------- | ---------- |
+| Fhorak      | 43%       | 57%        | 17%         | 68%      | 24%     | 8%         |
+| Dvorak      | 39%       | 61%        | 28%         | 63%      | 29%     | 8%         |
+| Colemak     | 54%       | 46%        | 17%         | 64%      | 18%     | 18%        |
+
 
 Tested using http://patorjk.com/keyboard-layout-analyzer
 
