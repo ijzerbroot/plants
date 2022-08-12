@@ -1,8 +1,8 @@
 {
-    "title": "Fhorak",
+    "title": "Doerak",
     "rules": [
         {
-            "description": "Franks Dvorak. 1234567890[] ',.uyfgclh/= aoespdrtni- ;qjkxbmwvz",
+            "description": "Doerak. 1234567890[] ',.uyfgclh/= aoespdrtni- ;qjkxbmwvz",
             "manipulators": [
                 {
                     "type": "basic",
