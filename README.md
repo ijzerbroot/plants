@@ -1,5 +1,7 @@
 # Doerak keyboard layout
 
+# Kept around for archiving. I am now using KAEHI
+
 A modification of Dvorak that is more comfortable for words like `ls, ps -efl, select from, create, insert, delete, update` (for me at least).
 This layout increases my comfort for statements that I often do in a hurry. 
 I dislike overloading my right pinky and using the bottom row and number row (for -, _ and =). Regular Dvorak and Colemak lead to either one or the other of those issues for me.
