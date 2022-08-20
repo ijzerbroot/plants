@@ -2,7 +2,7 @@
     "title": "Newjoy",
     "rules": [
         {
-            "description": "Modified Fitjoy layout",
+            "description": "Modified Fitjoy layout qphrfyuil; asdtgwemon zxcvbjk",
             "manipulators": [
                 {
                     "type": "basic",
@@ -73,30 +73,6 @@
                     "to": [
                         {
                             "key_code": "f"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "i",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_command",
-                                "left_control",
-                                "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "m"
                         }
                     ]
                 },
@@ -240,7 +216,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "i"
+                            "key_code": "m"
                         }
                     ]
                 },
