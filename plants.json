@@ -2,7 +2,7 @@
     "title": "Plants",
     "rules": [
         {
-            "description": "Plants layout qwfgjyuio; asrtdbnelp zxcvkhm",
+            "description": "Plants layout qwfgjyuio; asrtdknelp zxcvbhm",
             "manipulators": [
                 {
                     "type": "basic",
@@ -192,7 +192,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "b"
+                            "key_code": "k"
                         }
                     ]
                 },
@@ -288,7 +288,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "k"
+                            "key_code": "b"
                         }
                     ]
                 },

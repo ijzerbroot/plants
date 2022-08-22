@@ -4,8 +4,8 @@ Seems to fit my personal preferences and most often typed words quite well, whil
 
 ```
  qwfgjyuio; 
-  asrtdbnelp
-    zxcvkhm
+  asrtdknelp
+    zxcvbhm
 ```
 
 Karabiner configs include Dreymar's wonderful extend layer.
