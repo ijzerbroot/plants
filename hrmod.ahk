@@ -186,23 +186,23 @@ F24 & SC056::
 return
 
 F24 & SC02C::
-  ;Send {CtrlDown}{z}{CtrlUp}
-  Send {i}{n}{s}{e}{r}{t}
+  Send {CtrlDown}{z}{CtrlUp}
+  ;Send {i}{n}{s}{e}{r}{t}
 return
 
 F24 & SC02D::
-  ;Send {CtrlDown}{x}{CtrlUp}
-  Send {s}{e}{l}{e}{c}{t}
+  Send {CtrlDown}{x}{CtrlUp}
+  ;Send {s}{e}{l}{e}{c}{t}
 return
 
 F24 & SC02E::
-  ;Send {CtrlDown}{c}{CtrlUp}
-  Send {u}{p}{d}{a}{t}{e}
+  Send {CtrlDown}{c}{CtrlUp}
+  ;Send {u}{p}{d}{a}{t}{e}
 return
 
 F24 & SC02F::
-  ;Send {CtrlDown}{v}{CtrlUp}
-  Send {d}{e}{l}{e}{t}{e}
+  Send {CtrlDown}{v}{CtrlUp}
+  ;Send {d}{e}{l}{e}{t}{e}
 return
 
 F24 & SC030::
@@ -213,19 +213,27 @@ F24 & SC031::
 return
 
 F24 & SC032::
-  Send {Blind}{Backspace}
+  ;m
+  ;Send {Blind}{Backspace}
+  Send {s}{e}{l}{e}{c}{t}
 return
 
 F24 & SC033::
-  Send {Blind}{Tab}
+  ;,
+  ;Send {Blind}{Tab}
+  Send {i}{n}{s}{e}{r}{t}
 return
 
 F24 & SC034::
-  Send {AppsKey}
+  ;.
+  ;Send {AppsKey}
+  Send {u}{p}{d}{a}{t}{e}
 return
 
 F24 & SC035::
-  Send {Return}
+  ;/
+  ;Send {Return}
+  Send {d}{e}{l}{e}{t}{e}
 return
 
 ; RAlt cancel caps / nav layer
