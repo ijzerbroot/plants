@@ -185,6 +185,11 @@ F24 & SC056::
   Send {CtrlDown}{y}{CtrlUp}
 return
 
+F24 & SC02B::
+  ;\
+  Send {_}
+return
+
 F24 & SC02C::
   Send {CtrlDown}{z}{CtrlUp}
   ;Send {i}{n}{s}{e}{r}{t}
@@ -206,10 +211,14 @@ F24 & SC02F::
 return
 
 F24 & SC030::
+  ;b
+  Send {-}
 return
 
 F24 & SC031::
-  Send {Blind}{PrintScreen}
+  ;n
+  ;Send {Blind}{PrintScreen}
+  Send {=}
 return
 
 F24 & SC032::
