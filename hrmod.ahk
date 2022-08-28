@@ -186,19 +186,23 @@ F24 & SC056::
 return
 
 F24 & SC02C::
-  Send {CtrlDown}{z}{CtrlUp}
+  ;Send {CtrlDown}{z}{CtrlUp}
+  Send {i}{n}{s}{e}{r}{t}
 return
 
 F24 & SC02D::
-  Send {CtrlDown}{x}{CtrlUp}
+  ;Send {CtrlDown}{x}{CtrlUp}
+  Send {s}{e}{l}{e}{c}{t}
 return
 
 F24 & SC02E::
-  Send {CtrlDown}{c}{CtrlUp}
+  ;Send {CtrlDown}{c}{CtrlUp}
+  Send {u}{p}{d}{a}{t}{e}
 return
 
 F24 & SC02F::
-  Send {CtrlDown}{v}{CtrlUp}
+  ;Send {CtrlDown}{v}{CtrlUp}
+  Send {d}{e}{l}{e}{t}{e}
 return
 
 F24 & SC030::
