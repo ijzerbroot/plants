@@ -1,5 +1,5 @@
 {
-    "title": "Colemak Extend (DreymaR version, Python Generated) - github.com/mattmc3/colemak-tools",
+    "title": "Colemak Extend with SQL",
     "rules": [
         {
             "description": "Extend Mode [Caps Lock as Trigger Key]",
@@ -996,7 +996,7 @@
                         }
                     ],
                     "from": {
-                        "key_code": "n",
+                        "key_code": "b",
                         "modifiers": {
                             "optional": [
                                 "any"
@@ -1019,7 +1019,7 @@
                         }
                     ],
                     "from": {
-                        "key_code": "m",
+                        "key_code": "n",
                         "modifiers": {
                             "optional": [
                                 "any"
@@ -1042,152 +1042,6 @@
                         }
                     ],
                     "from": {
-                        "key_code": "w",
-                        "modifiers": {
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "vertical_wheel": -50
-                            }
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "conditions": [
-                        {
-                            "name": "extend_mode",
-                            "type": "variable_if",
-                            "value": 1
-                        }
-                    ],
-                    "from": {
-                        "key_code": "s",
-                        "modifiers": {
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "vertical_wheel": 50
-                            }
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "conditions": [
-                        {
-                            "name": "extend_mode",
-                            "type": "variable_if",
-                            "value": 1
-                        }
-                    ],
-                    "from": {
-                        "key_code": "t",
-                        "modifiers": {
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "y": -1500
-                            }
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "conditions": [
-                        {
-                            "name": "extend_mode",
-                            "type": "variable_if",
-                            "value": 1
-                        }
-                    ],
-                    "from": {
-                        "key_code": "g",
-                        "modifiers": {
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "mouse_key": {
-                                "y": 1500
-                            }
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "conditions": [
-                        {
-                            "name": "extend_mode",
-                            "type": "variable_if",
-                            "value": 1
-                        }
-                    ],
-                    "from": {
-                        "key_code": "b",
-                        "modifiers": {
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "pointing_button": "button1"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "conditions": [
-                        {
-                            "name": "extend_mode",
-                            "type": "variable_if",
-                            "value": 1
-                        }
-                    ],
-                    "from": {
-                        "key_code": "n",
-                        "modifiers": {
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "pointing_button": "button3"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "conditions": [
-                        {
-                            "name": "extend_mode",
-                            "type": "variable_if",
-                            "value": 1
-                        }
-                    ],
-                    "from": {
                         "key_code": "m",
                         "modifiers": {
                             "optional": [
@@ -1197,7 +1051,22 @@
                     },
                     "to": [
                         {
-                            "pointing_button": "button2"
+                            "key_code": "s"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "l"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "c"
+                        },
+                        {
+                            "key_code": "t"
                         }
                     ]
                 },
@@ -1220,9 +1089,22 @@
                     },
                     "to": [
                         {
-                            "mouse_key": {
-                                "x": 1500
-                            }
+                            "key_code": "i"
+                        },
+                        {
+                            "key_code": "n"
+                        },
+                        {
+                            "key_code": "s"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "r"
+                        },
+                        {
+                            "key_code": "t"
                         }
                     ]
                 },
@@ -1245,9 +1127,22 @@
                     },
                     "to": [
                         {
-                            "mouse_key": {
-                                "x": -1500
-                            }
+                            "key_code": "u"
+                        },
+                        {
+                            "key_code": "p"
+                        },
+                        {
+                            "key_code": "d"
+                        },
+                        {
+                            "key_code": "a"
+                        },
+                        {
+                            "key_code": "t"
+                        },
+                        {
+                            "key_code": "e"
                         }
                     ]
                 },
@@ -1270,9 +1165,22 @@
                     },
                     "to": [
                         {
-                            "mouse_key": {
-                                "horizontal_wheel": -50
-                            }
+                            "key_code": "d"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "l"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "t"
+                        },
+                        {
+                            "key_code": "e"
                         }
                     ]
                 },
@@ -1295,9 +1203,10 @@
                     },
                     "to": [
                         {
-                            "mouse_key": {
-                                "horizontal_wheel": 50
-                            }
+                            "key_code": "hyphen",
+                            "modifiers": [
+                                "left_shift"
+                            ]
                         }
                     ]
                 }
