@@ -120,7 +120,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "b"
                         }
                     ]
                 },
@@ -480,7 +480,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "b"
+                            "key_code": "j"
                         }
                     ]
                 },
