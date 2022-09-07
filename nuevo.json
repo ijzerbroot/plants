@@ -2,7 +2,7 @@
     "title": "Nuevo",
     "rules": [
         {
-            "description": "Niro homerow with Notarise accents",
+            "description": "Niro with a twist",
             "manipulators": [
                 {
                     "type": "basic",
@@ -144,7 +144,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "y"
+                            "key_code": "j"
                         }
                     ]
                 },
@@ -216,7 +216,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "y"
                         }
                     ]
                 },
