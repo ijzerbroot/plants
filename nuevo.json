@@ -2,7 +2,7 @@
     "title": "Nuevo",
     "rules": [
         {
-            "description": "Niro homerow, Notarise to balance",
+            "description": "Niro homerow with Notarise accents",
             "manipulators": [
                 {
                     "type": "basic",
