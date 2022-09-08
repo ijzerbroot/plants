@@ -1,8 +1,8 @@
 {
-    "title": "Semimak",
+    "title": "SemimakJQ",
     "rules": [
         {
-            "description": "Semimak (https://semilin.github.io/semimak/)",
+            "description": "Semimak JQ (https://semilin.github.io/semimak/)",
             "manipulators": [
                 {
                     "type": "basic",
@@ -144,7 +144,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "q"
+                            "key_code": "quote"
                         }
                     ]
                 },
@@ -552,7 +552,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "quote"
+                            "key_code": "j"
                         }
                     ]
                 },
@@ -624,7 +624,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "q"
                         }
                     ]
                 },
