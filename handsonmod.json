@@ -2,7 +2,7 @@
     "title": "HandsOn Mod",
     "rules": [
         {
-            "description": "HandsOn Mod gwldbykuq' rsntphieoa; zxcvjfm",
+            "description": "HandsOn Mod pwldbykuq' rsntghieoa; zxcvjfm",
             "manipulators": [
                 {
                     "type": "basic",
@@ -24,7 +24,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "g"
+                            "key_code": "p"
                         }
                     ]
                 },
@@ -312,7 +312,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "p"
+                            "key_code": "g"
                         }
                     ]
                 },
