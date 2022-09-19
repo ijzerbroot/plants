@@ -360,7 +360,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "period"
+                            "key_code": "comma"
                         }
                     ]
                 },
@@ -384,7 +384,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "comma"
+                            "key_code": "period"
                         }
                     ]
                 },
