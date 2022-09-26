@@ -360,7 +360,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "k"
+                            "key_code": "h"
                         }
                     ]
                 },
@@ -504,7 +504,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "h"
+                            "key_code": "k"
                         }
                     ]
                 },
