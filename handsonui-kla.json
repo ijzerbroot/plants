@@ -1,8 +1,5 @@
 {
     "label": "HandsOnUI",
-    "author": "Patrick Gillespie",
-    "moreInfoUrl": "https://en.wikipedia.org/wiki/QWERTY",
-    "moreInfoText": "Wikipedia Entry",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -18,6 +15,10 @@
         "false": -1
     },
     "keyboardType": "standard",
+    "author": "Hazaskull",
+    "authorUrl": "",
+    "moreInfoUrl": "",
+    "moreInfoText": "Derived from R. Alan Reiser's Hands On layout",
     "keys": [
         {
             "primary": 96,
@@ -267,20 +268,22 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 97,
-            "shift": 65,
+            "primary": 111,
+            "shift": 79,
             "finger": 9,
             "id": 37,
             "altGr": -1,
-            "shiftAltGr": -1
+            "shiftAltGr": -1,
+            "numpad": -1
         },
         {
-            "primary": 111,
-            "shift": 79,
+            "primary": 97,
+            "shift": 65,
             "finger": 10,
             "id": 38,
             "altGr": -1,
-            "shiftAltGr": -1
+            "shiftAltGr": -1,
+            "numpad": -1
         },
         {
             "primary": 59,
