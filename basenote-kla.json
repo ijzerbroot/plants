@@ -1,5 +1,5 @@
 {
-    "label": "Basenote",
+    "label": "basenote",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -135,8 +135,8 @@
             "numpad": -1
         },
         {
-            "primary": 114,
-            "shift": 82,
+            "primary": 100,
+            "shift": 68,
             "finger": 4,
             "id": 18,
             "altGr": -1,
@@ -144,8 +144,8 @@
             "numpad": -1
         },
         {
-            "primary": 106,
-            "shift": 74,
+            "primary": 102,
+            "shift": 70,
             "finger": 4,
             "id": 19,
             "altGr": -1,
@@ -171,8 +171,8 @@
             "numpad": -1
         },
         {
-            "primary": 102,
-            "shift": 70,
+            "primary": 106,
+            "shift": 74,
             "finger": 8,
             "id": 22,
             "altGr": -1,
@@ -235,8 +235,8 @@
             "id": 30
         },
         {
-            "primary": 100,
-            "shift": 68,
+            "primary": 114,
+            "shift": 82,
             "finger": 3,
             "id": 31,
             "altGr": -1,
