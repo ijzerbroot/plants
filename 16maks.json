@@ -24,14 +24,14 @@
                     },
                     "to": [
                         {
-                            "key_code": "backslash"
+                            "key_code": "open_bracket"
                         }
                     ]
                 },
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "backslash",
+                        "key_code": "open_bracket",
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
