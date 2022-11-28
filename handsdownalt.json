@@ -96,7 +96,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "m"
+                            "key_code": "f"
                         }
                     ]
                 },
@@ -144,7 +144,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "quote"
+                            "key_code": "slash"
                         }
                     ]
                 },
@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "k"
+                            "key_code": "y"
                         }
                     ]
                 },
@@ -384,7 +384,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "y"
+                            "key_code": "k"
                         }
                     ]
                 },
@@ -552,7 +552,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "b"
+                            "key_code": "m"
                         }
                     ]
                 },
@@ -624,7 +624,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "z"
+                            "key_code": "b"
                         }
                     ]
                 },
@@ -648,7 +648,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f"
+                            "key_code": "z"
                         }
                     ]
                 },
@@ -744,7 +744,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "slash"
+                            "key_code": "period"
                         }
                     ]
                 }
