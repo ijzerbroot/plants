@@ -696,7 +696,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "comma"
+                            "key_code": "quote"
                         }
                     ]
                 },
@@ -720,7 +720,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "period"
+                            "key_code": "comma"
                         }
                     ]
                 },
