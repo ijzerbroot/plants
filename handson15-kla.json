@@ -1,5 +1,5 @@
 {
-    "label": "hands-on15.en.ansi",
+    "label": "hands-on15b.en.ansi",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -118,8 +118,8 @@
             "numpad": -1
         },
         {
-            "primary": 112,
-            "shift": 80,
+            "primary": 102,
+            "shift": 70,
             "finger": 2,
             "id": 16,
             "altGr": -1,
@@ -144,8 +144,8 @@
             "numpad": -1
         },
         {
-            "primary": 102,
-            "shift": 70,
+            "primary": 112,
+            "shift": 80,
             "finger": 4,
             "id": 19,
             "altGr": -1,
