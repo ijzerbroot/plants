@@ -144,7 +144,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "k"
+                            "key_code": "j"
                         }
                     ]
                 },
@@ -480,7 +480,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "k"
                         }
                     ]
                 },
