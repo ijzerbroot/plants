@@ -1,8 +1,8 @@
 {
-    "title": "3fromc",
+    "title": "5fromc",
     "rules": [
         {
-            "description": "3 letters from colemak",
+            "description": "5 letters from colemak",
             "manipulators": [
                 {
                     "type": "basic",
@@ -96,7 +96,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "p"
+                            "key_code": "l"
                         }
                     ]
                 },
@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "p"
                         }
                     ]
                 },
