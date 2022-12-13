@@ -120,7 +120,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "v"
+                            "key_code": "g"
                         }
                     ]
                 },
@@ -600,7 +600,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "d"
+                            "key_code": "v"
                         }
                     ]
                 },
