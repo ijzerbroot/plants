@@ -1,8 +1,8 @@
 {
-    "title": "Dorian",
+    "title": "Noita",
     "rules": [
         {
-            "description": "Dorian",
+            "description": "Noita",
             "manipulators": [
                 {
                     "type": "basic",
@@ -24,7 +24,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "e"
+                            "key_code": "d"
                         }
                     ]
                 },
@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "d"
+                            "key_code": "e"
                         }
                     ]
                 },
