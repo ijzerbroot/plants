@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "e"
+                            "key_code": "r"
                         }
                     ]
                 },
@@ -240,7 +240,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "o"
+                            "key_code": "e"
                         }
                     ]
                 },
@@ -288,7 +288,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "r"
+                            "key_code": "o"
                         }
                     ]
                 },
