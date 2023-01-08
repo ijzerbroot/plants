@@ -24,7 +24,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "d"
+                            "key_code": "f"
                         }
                     ]
                 },
@@ -48,7 +48,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f"
+                            "key_code": "d"
                         }
                     ]
                 },
@@ -79,31 +79,7 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "i",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_command",
-                                "left_control",
-                                "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "i"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "o",
+                        "key_code": "p",
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
@@ -127,30 +103,6 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "p",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_command",
-                                "left_control",
-                                "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "semicolon"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
                         "key_code": "d",
                         "modifiers": {
                             "optional": [
@@ -168,7 +120,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "e"
+                            "key_code": "r"
                         }
                     ]
                 },
@@ -240,31 +192,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "o"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "semicolon",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_command",
-                                "left_control",
-                                "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "r"
+                            "key_code": "e"
                         }
                     ]
                 },
