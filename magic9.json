@@ -1,8 +1,8 @@
 {
-    "title": "Magic11",
+    "title": "Magic9",
     "rules": [
         {
-            "description": "Magic11",
+            "description": "Magic9",
             "manipulators": [
                 {
                     "type": "basic",
@@ -24,7 +24,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "d"
+                            "key_code": "h"
                         }
                     ]
                 },
@@ -121,30 +121,6 @@
                     "to": [
                         {
                             "key_code": "r"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "d",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_command",
-                                "left_control",
-                                "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "h"
                         }
                     ]
                 },
