@@ -1,8 +1,8 @@
 {
-    "title": "CarpalX QFMLWY Haza",
+    "title": "CarpalX QFBLWY Haza",
     "rules": [
         {
-            "description": "CarpalX QFMLWY Hazamod",
+            "description": "CarpalX QFBLWY Hazamod",
             "manipulators": [
                 {
                     "type": "basic",
@@ -330,7 +330,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "m"
+                            "key_code": "b"
                         }
                     ]
                 },
@@ -462,7 +462,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "b"
+                            "key_code": "m"
                         }
                     ]
                 },
