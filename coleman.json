@@ -1,8 +1,8 @@
 {
-    "title": "Colemap",
+    "title": "Coleman",
     "rules": [
         {
-            "description": "Colemap",
+            "description": "Coleman",
             "manipulators": [
                 {
                     "type": "basic",
@@ -96,7 +96,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "p"
                         }
                     ]
                 },
@@ -168,7 +168,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "p"
+                            "key_code": "l"
                         }
                     ]
                 },
