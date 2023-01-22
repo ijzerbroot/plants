@@ -7,7 +7,7 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "u",
+                        "key_code": "f",
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
@@ -31,7 +31,7 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "i",
+                        "key_code": "g",
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
