@@ -456,7 +456,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "i"
+                            "key_code": "a"
                         }
                     ]
                 },
@@ -480,7 +480,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "a"
+                            "key_code": "i"
                         }
                     ]
                 },
