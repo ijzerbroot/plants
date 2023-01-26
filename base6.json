@@ -1,0 +1,148 @@
+{
+    "title": "Base6",
+    "rules": [
+        {
+            "description": "Base6",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "e",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "right_command",
+                                "right_control",
+                                "right_alt",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "d"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "r",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "right_command",
+                                "right_control",
+                                "right_alt",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "f"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "t",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "right_command",
+                                "right_control",
+                                "right_alt",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "k"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "d",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "right_command",
+                                "right_control",
+                                "right_alt",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "r"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "f",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "right_command",
+                                "right_control",
+                                "right_alt",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "t"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "k",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "right_command",
+                                "right_control",
+                                "right_alt",
+                                "shift"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "e"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
