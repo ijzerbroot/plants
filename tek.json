@@ -1,8 +1,8 @@
 {
-    "title": "Minimak 3 keys",
+    "title": "TEK",
     "rules": [
         {
-            "description": "Minimak 3-key swap",
+            "description": "TEK 3-key swap",
             "manipulators": [
                 {
                     "type": "basic",
