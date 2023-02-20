@@ -1,0 +1,79 @@
+# The name of the device to remap.
+# Run `sudo evremap list-devices` to see the devices available
+# on your system.
+device_name = "ROYUAN EPMAKER TH80"
+
+# If you have multiple devices with the same name, you can optionally
+# specify the `phys` value that is printed by the `list-devices` subcommand
+# phys = "usb-0000:07:00.3-2.1.1/input0"
+phys = "usb-0000:00:14.0-12/input0"
+
+[[remap]]
+input = ["KEY_E"]
+output = ["KEY_L"]
+
+[[remap]]
+input = ["KEY_R"]
+output = ["KEY_D"]
+
+[[remap]]
+input = ["KEY_T"]
+output = ["KEY_G"]
+
+[[remap]]
+input = ["KEY_Y"]
+output = ["KEY_J"]
+
+[[remap]]
+input = ["KEY_A"]
+output = ["KEY_N"]
+
+[[remap]]
+input = ["KEY_S"]
+output = ["KEY_R"]
+
+[[remap]]
+input = ["KEY_D"]
+output = ["KEY_S"]
+
+[[remap]]
+input = ["KEY_F"]
+output = ["KEY_T"]
+
+[[remap]]
+input = ["KEY_G"]
+output = ["KEY_M"]
+
+[[remap]]
+input = ["KEY_H"]
+output = ["KEY_K"]
+
+[[remap]]
+input = ["KEY_J"]
+output = ["KEY_A"]
+
+[[remap]]
+input = ["KEY_K"]
+output = ["KEY_E"]
+
+[[remap]]
+input = ["KEY_L"]
+output = ["KEY_H"]
+
+[[remap]]
+input = ["KEY_N"]
+output = ["KEY_Y"]
+
+[[remap]]
+input = ["KEY_M"]
+output = ["KEY_F"]
+
+# Configure CAPSLOCK as a Dual Role key.
+# Holding it produces LEFTCTRL, but tapping it
+# will produce ESC.
+# Both `tap` and `hold` can expand to multiple output keys.
+[[dual_role]]
+input = "KEY_CAPSLOCK"
+hold = ["KEY_LEFTCTRL"]
+tap = ["KEY_CAPSLOCK"]
+
