@@ -240,7 +240,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "quote"
+                            "key_code": "slash"
                         }
                     ]
                 },
@@ -655,7 +655,7 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "quote",
+                        "key_code": "slash",
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
