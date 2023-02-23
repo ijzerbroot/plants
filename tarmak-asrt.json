@@ -24,7 +24,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f"
+                            "key_code": "h"
                         }
                     ]
                 },
@@ -145,6 +145,30 @@
                     "to": [
                         {
                             "key_code": "d"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "h",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "left_shift",
+                                "right_shift",
+                                "right_command",
+                                "right_control",
+                                "right_alt"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "f"
                         }
                     ]
                 },
