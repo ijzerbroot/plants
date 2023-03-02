@@ -184,7 +184,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "k"
+                            "key_code": "l"
                         }
                     ]
                 },
@@ -276,7 +276,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "k"
                         }
                     ]
                 }
