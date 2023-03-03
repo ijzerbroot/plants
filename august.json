@@ -1,5 +1,5 @@
 {
-    "title": "Colibius",
+    "title": "August (Colibius)",
     "rules": [
         {
             "description": "Dvorak modernized",
@@ -624,7 +624,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "semicolon"
+                            "key_code": "z"
                         }
                     ]
                 },
@@ -648,7 +648,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "x"
+                            "key_code": "semicolon"
                         }
                     ]
                 },
@@ -672,7 +672,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "z"
+                            "key_code": "y"
                         }
                     ]
                 },
@@ -696,7 +696,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "y"
+                            "key_code": "x"
                         }
                     ]
                 },
