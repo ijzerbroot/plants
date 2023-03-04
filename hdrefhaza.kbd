@@ -1,0 +1,40 @@
+
+(defcfg
+	input (device-file "/dev/input/by-id/usb-ROYUAN_EPMAKER_TH80-event-kbd")
+	output (uinput-sink "KMonad kbd")
+	fallthrough true
+
+)
+
+
+(defsrc
+  esc  f1   f2   f3   f4   f5   f6   f7   f8   f9   f10  f11  f12       
+  grv  1    2    3    4    5    6    7    8    9    0    -    =    bspc
+  tab  q    w    e    r    t    y    u    i    o    p    [    ]    \  
+  caps a    s    d    f    g    h    j    k    l    ;    '    ret    
+  lsft z    x    c    v    b    n    m    ,    .    /    rsft       
+  lctl lmet lalt           spc            ralt rmet rctl      
+)
+
+(defalias
+  qwr (layer-switch qwerty) ;; Bind 'qwr' to the qwerty layer
+  hdr (layer-switch hdrefhaza) ;; Bind 'hdr' to the hdrefhaza layer
+)
+
+(deflayer hdrefhaza
+  esc  f1   f2   f3   f4   f5   f6   f7   f8   f9   f10  f11  f12       
+  grv  1    2    3    4    5    6    7    8    9    0    -    =    bspc 
+  tab  q    c    h    m    v    y    k    o    j    '    [   ]    \    
+  esc  r    s    n    t    g    w    u    e    i    a    ;    ret     
+  lsft z    x    l    d    b    p    f    ,    .    /    rsft        
+  lctl lmet lalt           spc            @qwr rmet rctl       
+)
+
+(deflayer qwerty
+  esc  f1   f2   f3   f4   f5   f6   f7   f8   f9   f10  f11  f12       
+  grv  1    2    3    4    5    6    7    8    9    0    -    =    bspc 
+  tab  q    w    e    r    t    y    u    i    o    p    [   ]    \    
+  esc  a    s    d    f    g    h    j    k    l    ;    '    ret     
+  lsft z    x    c    v    b    n    m    ,    .    /    rsft        
+  lctl lmet lalt           spc            @hdr rmet rctl       
+)
