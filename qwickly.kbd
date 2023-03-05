@@ -24,9 +24,9 @@
 (deflayer qwickly
   esc  f1   f2   f3   f4   f5   f6   f7   f8   f9   f10  f11  f12       
   grv  1    2    3    4    5    6    7    8    9    0    -    =    bspc 
-  tab  q    w    u    d    p    k    f    y    l    ;    [   ]    \    
-  esc  a    s    e    t    g    h    n    i    r    o    ''   ret     
-  lsft z    x    c    v    j    b    m    ,    .    /    rsft        
+  tab  q    w    u    d    p    z    h    y    l    ,    [   ]    \    
+  esc  a    s    e    t    g    f    n    i    r    o    '   ret     
+  lsft k    x    c    v    j    b    m    ;    .    /    rsft        
   lctl lmet lalt           spc            @qwr rmet rctl       
 )
 
