@@ -1,5 +1,5 @@
 {
-    "title": "16maksjl",
+    "title": "16maks",
     "rules": [
         {
             "description": "16maks https://www.reddit.com/r/KeyboardLayouts/comments/oehliv/the_maks_family_of_layouts_part_1_partially/",
@@ -216,7 +216,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "l"
                         }
                     ]
                 },
@@ -576,7 +576,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "j"
                         }
                     ]
                 },
