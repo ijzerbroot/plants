@@ -439,6 +439,30 @@
                 {
                     "type": "basic",
                     "from": {
+                        "key_code": "v",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "left_shift",
+                                "right_shift",
+                                "right_command",
+                                "right_control",
+                                "right_alt"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "d"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
                         "key_code": "b",
                         "modifiers": {
                             "optional": [
@@ -480,7 +504,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "d"
+                            "key_code": "v"
                         }
                     ]
                 },
