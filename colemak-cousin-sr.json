@@ -72,7 +72,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f"
+                            "key_code": "l"
                         }
                     ]
                 },
@@ -96,7 +96,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "f"
                         }
                     ]
                 },
