@@ -286,7 +286,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "s"
+                            "key_code": "r"
                         }
                     ]
                 },
@@ -333,7 +333,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "r"
+                            "key_code": "s"
                         }
                     ]
                 },
