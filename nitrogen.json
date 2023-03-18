@@ -523,7 +523,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "q"
                         }
                     ]
                 },
@@ -545,7 +545,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "q"
+                            "key_code": "j"
                         }
                     ]
                 },
