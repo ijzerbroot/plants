@@ -33,7 +33,6 @@
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
-                                "left_command",
                                 "left_control",
                                 "left_alt",
                                 "left_shift",
@@ -513,6 +512,7 @@
                             "optional": [
                                 "caps_lock",
                                 "left_alt",
+                                "left_control",
                                 "left_shift",
                                 "right_shift",
                                 "right_command",
@@ -535,6 +535,7 @@
                             "optional": [
                                 "caps_lock",
                                 "left_alt",
+                                "left_control",
                                 "left_shift",
                                 "right_shift",
                                 "right_command",
@@ -579,6 +580,7 @@
                             "optional": [
                                 "caps_lock",
                                 "left_alt",
+                                "left_control",
                                 "left_shift",
                                 "right_shift",
                                 "right_command",
