@@ -11,6 +11,8 @@
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
+                                "left_command",
+                                "left_control",
                                 "left_alt",
                                 "left_shift",
                                 "right_shift",
@@ -33,6 +35,7 @@
                         "modifiers": {
                             "optional": [
                                 "caps_lock",
+                                "left_command",
                                 "left_control",
                                 "left_alt",
                                 "left_shift",
@@ -297,6 +300,7 @@
                             "optional": [
                                 "caps_lock",
                                 "left_command",
+                                "left_control",
                                 "left_alt",
                                 "left_shift",
                                 "right_shift",
@@ -500,7 +504,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "semicolon"
+                            "key_code": "slash"
                         }
                     ]
                 },
@@ -512,6 +516,7 @@
                             "optional": [
                                 "caps_lock",
                                 "left_alt",
+                                "left_command",
                                 "left_control",
                                 "left_shift",
                                 "right_shift",
@@ -535,6 +540,7 @@
                             "optional": [
                                 "caps_lock",
                                 "left_alt",
+                                "left_command",
                                 "left_control",
                                 "left_shift",
                                 "right_shift",
@@ -558,28 +564,7 @@
                             "optional": [
                                 "caps_lock",
                                 "left_alt",
-                                "left_shift",
-                                "right_shift",
-                                "right_command",
-                                "right_control",
-                                "right_alt"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "c"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "v",
-                        "modifiers": {
-                            "optional": [
-                                "caps_lock",
-                                "left_alt",
+                                "left_command",
                                 "left_control",
                                 "left_shift",
                                 "right_shift",
@@ -592,6 +577,30 @@
                     "to": [
                         {
                             "key_code": "w"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "v",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_alt",
+                                "left_command",
+                                "left_control",
+                                "left_shift",
+                                "right_shift",
+                                "right_command",
+                                "right_control",
+                                "right_alt"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "c"
                         }
                     ]
                 },
@@ -711,7 +720,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "slash"
+                            "key_code": "semicolon"
                         }
                     ]
                 },
