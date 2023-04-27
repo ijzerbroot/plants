@@ -1,8 +1,8 @@
 {
-  "title": "Maas-Neotek",
+  "title": "Maas_Neotek",
   "rules": [
     {
-      "description": "Maas-Neotek",
+      "description": "Maas_Neotek",
       "manipulators": [
         {
           "type": "basic",
@@ -120,7 +120,7 @@
           },
           "to": [
             {
-              "key_code": "q"
+              "key_code": "v"
             }
           ]
         },
@@ -384,7 +384,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "j"
             }
           ]
         },
@@ -624,7 +624,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "q"
             }
           ]
         },
@@ -648,7 +648,7 @@
           },
           "to": [
             {
-              "key_code": "j"
+              "key_code": "b"
             }
           ]
         },
