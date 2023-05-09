@@ -240,7 +240,7 @@
           },
           "to": [
             {
-              "key_code": "semicolon"
+              "key_code": "quote"
             }
           ]
         },
@@ -384,7 +384,7 @@
           },
           "to": [
             {
-              "key_code": "q"
+              "key_code": "k"
             }
           ]
         },
@@ -504,7 +504,7 @@
           },
           "to": [
             {
-              "key_code": "quote"
+              "key_code": "slash"
             }
           ]
         },
@@ -528,7 +528,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "q"
             }
           ]
         },
@@ -552,7 +552,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "x"
             }
           ]
         },
@@ -624,7 +624,7 @@
           },
           "to": [
             {
-              "key_code": "x"
+              "key_code": "z"
             }
           ]
         },
@@ -720,7 +720,7 @@
           },
           "to": [
             {
-              "key_code": "period"
+              "key_code": "semicolon"
             }
           ]
         },
@@ -744,7 +744,7 @@
           },
           "to": [
             {
-              "key_code": "slash"
+              "key_code": "period"
             }
           ]
         }
