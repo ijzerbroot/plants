@@ -360,7 +360,7 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "p"
             }
           ]
         },
@@ -576,7 +576,7 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "m"
             }
           ]
         },
