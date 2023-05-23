@@ -528,7 +528,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "z"
             }
           ]
         },
@@ -624,7 +624,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "k"
             }
           ]
         },
