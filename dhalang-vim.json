@@ -1,8 +1,8 @@
 {
-  "title": "Dhalang",
+  "title": "Dhalang VIM",
   "rules": [
     {
-      "description": "Dhalang",
+      "description": "Dhalang VIM",
       "manipulators": [
         {
           "type": "basic",
