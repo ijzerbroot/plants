@@ -168,7 +168,7 @@
           },
           "to": [
             {
-              "key_code": "y"
+              "key_code": "f"
             }
           ]
         },
@@ -648,7 +648,7 @@
           },
           "to": [
             {
-              "key_code": "f"
+              "key_code": "y"
             }
           ]
         },
