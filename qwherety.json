@@ -504,7 +504,7 @@
           },
           "to": [
             {
-              "key_code": "quote"
+              "key_code": "slash"
             }
           ]
         },
@@ -696,7 +696,7 @@
           },
           "to": [
             {
-              "key_code": "slash"
+              "key_code": "comma"
             }
           ]
         },
@@ -720,7 +720,7 @@
           },
           "to": [
             {
-              "key_code": "comma"
+              "key_code": "period"
             }
           ]
         },
@@ -744,7 +744,7 @@
           },
           "to": [
             {
-              "key_code": "period"
+              "key_code": "quote"
             }
           ]
         }
