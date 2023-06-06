@@ -24,7 +24,7 @@
           },
           "to": [
             {
-              "key_code": "y"
+              "key_code": "b"
             }
           ]
         },
@@ -168,7 +168,7 @@
           },
           "to": [
             {
-              "key_code": "w"
+              "key_code": "y"
             }
           ]
         },
@@ -576,7 +576,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "w"
             }
           ]
         },
