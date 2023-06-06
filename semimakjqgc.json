@@ -1,8 +1,8 @@
 {
-  "title": "SemimakJQ",
+  "title": "SemimakJQGC",
   "rules": [
     {
-      "description": "Semimak JQ (https://semilin.github.io/semimak/)",
+      "description": "Semimak JQGC (https://semilin.github.io/semimak/)",
       "manipulators": [
         {
           "type": "basic",
