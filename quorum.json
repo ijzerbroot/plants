@@ -360,7 +360,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "m"
             }
           ]
         },
@@ -600,7 +600,7 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "v"
             }
           ]
         },
