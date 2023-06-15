@@ -360,7 +360,7 @@
           },
           "to": [
             {
-              "key_code": "w"
+              "key_code": "v"
             }
           ]
         },
@@ -576,7 +576,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "w"
             }
           ]
         },
