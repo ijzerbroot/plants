@@ -528,7 +528,7 @@
           },
           "to": [
             {
-              "key_code": "q"
+              "key_code": "x"
             }
           ]
         },
@@ -552,7 +552,7 @@
           },
           "to": [
             {
-              "key_code": "x"
+              "key_code": "q"
             }
           ]
         },
