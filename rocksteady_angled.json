@@ -1,8 +1,8 @@
 {
-  "title": "Rocksteady",
+  "title": "Rocksteady Angle",
   "rules": [
     {
-      "description": "Rocksteady",
+      "description": "Rocksteady Angle",
       "manipulators": [
         {
           "type": "basic",
@@ -360,7 +360,7 @@
           },
           "to": [
             {
-              "key_code": "y"
+              "key_code": "p"
             }
           ]
         },
@@ -528,7 +528,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "z"
             }
           ]
         },
@@ -576,7 +576,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "g"
             }
           ]
         },
@@ -600,7 +600,7 @@
           },
           "to": [
             {
-              "key_code": "g"
+              "key_code": "y"
             }
           ]
         },
@@ -624,7 +624,7 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "k"
             }
           ]
         },
