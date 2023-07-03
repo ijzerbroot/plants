@@ -24,7 +24,7 @@
           },
           "to": [
             {
-              "key_code": "w"
+              "key_code": "z"
             }
           ]
         },
@@ -120,7 +120,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "p"
             }
           ]
         },
@@ -360,7 +360,7 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "w"
             }
           ]
         },
@@ -624,7 +624,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "v"
             }
           ]
         },
