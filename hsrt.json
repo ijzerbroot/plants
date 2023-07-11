@@ -96,7 +96,7 @@
           },
           "to": [
             {
-              "key_code": "d"
+              "key_code": "k"
             }
           ]
         },
@@ -600,7 +600,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "d"
             }
           ]
         },
