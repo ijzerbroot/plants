@@ -216,7 +216,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "j"
             }
           ]
         },
@@ -624,7 +624,7 @@
           },
           "to": [
             {
-              "key_code": "j"
+              "key_code": "z"
             }
           ]
         },
