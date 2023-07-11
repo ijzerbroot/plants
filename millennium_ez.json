@@ -144,7 +144,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "q"
             }
           ]
         },
@@ -216,7 +216,7 @@
           },
           "to": [
             {
-              "key_code": "f"
+              "key_code": "z"
             }
           ]
         },
@@ -384,7 +384,7 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "f"
             }
           ]
         },
@@ -648,7 +648,7 @@
           },
           "to": [
             {
-              "key_code": "q"
+              "key_code": "b"
             }
           ]
         },
@@ -672,7 +672,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "p"
             }
           ]
         },
