@@ -288,7 +288,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "o"
+                            "key_code": "h"
                         }
                     ]
                 },
@@ -312,7 +312,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "h"
+                            "key_code": "o"
                         }
                     ]
                 },
