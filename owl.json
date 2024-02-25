@@ -24,7 +24,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "r"
+                            "key_code": "d"
                         }
                     ]
                 },
@@ -145,6 +145,30 @@
                     "to": [
                         {
                             "key_code": "semicolon"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "d",
+                        "modifiers": {
+                            "optional": [
+                                "caps_lock",
+                                "left_command",
+                                "left_control",
+                                "left_alt",
+                                "left_shift",
+                                "right_shift",
+                                "right_command",
+                                "right_control",
+                                "right_alt"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "r"
                         }
                     ]
                 },
