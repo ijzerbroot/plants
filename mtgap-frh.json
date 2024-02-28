@@ -1,8 +1,8 @@
 {
-  "title": "MTGAP-FRH",
+  "title": "MTGAP FRH",
   "rules": [
     {
-      "description": "MTGAP-FRH",
+      "description": "MTGAP FRH",
       "manipulators": [
         {
           "type": "basic",
@@ -168,7 +168,7 @@
           },
           "to": [
             {
-              "key_code": "d"
+              "key_code": "f"
             }
           ]
         },
@@ -288,7 +288,7 @@
           },
           "to": [
             {
-              "key_code": "n"
+              "key_code": "s"
             }
           ]
         },
@@ -360,7 +360,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "q"
             }
           ]
         },
@@ -384,7 +384,7 @@
           },
           "to": [
             {
-              "key_code": "f"
+              "key_code": "m"
             }
           ]
         },
@@ -456,7 +456,7 @@
           },
           "to": [
             {
-              "key_code": "s"
+              "key_code": "n"
             }
           ]
         },
@@ -528,7 +528,7 @@
           },
           "to": [
             {
-              "key_code": "q"
+              "key_code": "z"
             }
           ]
         },
@@ -552,7 +552,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "x"
             }
           ]
         },
@@ -600,7 +600,7 @@
           },
           "to": [
             {
-              "key_code": "slash"
+              "key_code": "v"
             }
           ]
         },
@@ -648,7 +648,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "b"
             }
           ]
         },
@@ -672,7 +672,7 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "d"
             }
           ]
         },
@@ -744,7 +744,7 @@
           },
           "to": [
             {
-              "key_code": "x"
+              "key_code": "slash"
             }
           ]
         }
