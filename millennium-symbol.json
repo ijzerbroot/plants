@@ -576,7 +576,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "c"
             }
           ]
         },
@@ -600,7 +600,7 @@
           },
           "to": [
             {
-              "key_code": "c"
+              "key_code": "v"
             }
           ]
         },
@@ -624,7 +624,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "k"
             }
           ]
         },
