@@ -1,8 +1,8 @@
 {
-  "title": "LSY",
+  "title": "Quantumdrone",
   "rules": [
     {
-      "description": "LSY",
+      "description": "Quantumdrone",
       "manipulators": [
         {
           "type": "basic",
