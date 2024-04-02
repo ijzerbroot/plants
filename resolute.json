@@ -72,7 +72,7 @@
           },
           "to": [
             {
-              "key_code": "w"
+              "key_code": "c"
             }
           ]
         },
@@ -480,7 +480,7 @@
           },
           "to": [
             {
-              "key_code": "c"
+              "key_code": "w"
             }
           ]
         },
