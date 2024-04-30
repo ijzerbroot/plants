@@ -735,7 +735,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "comma"
+                            "key_code": "period"
                         }
                     ]
                 }
