@@ -117,7 +117,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "b"
+                            "key_code": "p"
                         }
                     ]
                 },
@@ -615,7 +615,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "p"
+                            "key_code": "b"
                         }
                     ]
                 },
