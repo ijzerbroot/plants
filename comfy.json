@@ -428,7 +428,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "e"
+                            "key_code": "a"
                         }
                     ]
                 },
@@ -452,7 +452,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "a"
+                            "key_code": "e"
                         }
                     ]
                 },
