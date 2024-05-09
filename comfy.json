@@ -189,7 +189,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "u"
+                            "key_code": "c"
                         }
                     ]
                 },
@@ -213,7 +213,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "c"
+                            "key_code": "u"
                         }
                     ]
                 },
