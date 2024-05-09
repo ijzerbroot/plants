@@ -69,7 +69,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "r"
+                            "key_code": "g"
                         }
                     ]
                 },
@@ -93,7 +93,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "g"
+                            "key_code": "r"
                         }
                     ]
                 },
@@ -356,7 +356,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "m"
+                            "key_code": "d"
                         }
                     ]
                 },
@@ -568,7 +568,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "d"
+                            "key_code": "m"
                         }
                     ]
                 },
