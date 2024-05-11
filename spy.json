@@ -404,7 +404,7 @@
           },
           "to": [
             {
-              "key_code": "d"
+              "key_code": "h"
             }
           ]
         },
@@ -663,7 +663,7 @@
           },
           "to": [
             {
-              "key_code": "h"
+              "key_code": "d"
             }
           ]
         },
