@@ -380,7 +380,7 @@
           },
           "to": [
             {
-              "key_code": "y"
+              "key_code": "d"
             }
           ]
         },
@@ -663,7 +663,7 @@
           },
           "to": [
             {
-              "key_code": "d"
+              "key_code": "y"
             }
           ]
         },
