@@ -237,7 +237,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "quote"
+                            "key_code": "semicolon"
                         }
                     ]
                 },
@@ -500,7 +500,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "semicolon"
+                            "key_code": "quote"
                         }
                     ]
                 },
