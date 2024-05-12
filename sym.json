@@ -189,7 +189,7 @@
           },
           "to": [
             {
-              "key_code": "l"
+              "key_code": "d"
             }
           ]
         },
@@ -213,7 +213,7 @@
           },
           "to": [
             {
-              "key_code": "r"
+              "key_code": "l"
             }
           ]
         },
@@ -404,7 +404,7 @@
           },
           "to": [
             {
-              "key_code": "d"
+              "key_code": "n"
             }
           ]
         },
@@ -452,7 +452,7 @@
           },
           "to": [
             {
-              "key_code": "n"
+              "key_code": "r"
             }
           ]
         },
