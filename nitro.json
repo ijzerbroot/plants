@@ -1,8 +1,8 @@
 {
-  "title": "Nitro",
+  "title": "Intro",
   "rules": [
     {
-      "description": "Nitro",
+      "description": "Intro",
       "manipulators": [
         {
           "type": "basic",
@@ -165,7 +165,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "m"
             }
           ]
         },
@@ -380,7 +380,7 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "b"
             }
           ]
         },
