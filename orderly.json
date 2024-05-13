@@ -1,8 +1,8 @@
 {
-  "title": "Progress",
+  "title": "Orderly",
   "rules": [
     {
-      "description": "Progress",
+      "description": "Orderly",
       "manipulators": [
         {
           "type": "basic",
