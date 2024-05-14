@@ -165,7 +165,7 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "b"
             }
           ]
         },
@@ -380,7 +380,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "m"
             }
           ]
         },
