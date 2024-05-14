@@ -22,7 +22,7 @@
           },
           "to": [
             {
-              "key_code": "q"
+              "key_code": "period"
             }
           ]
         },
@@ -141,7 +141,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "k"
             }
           ]
         },
@@ -547,7 +547,7 @@
           },
           "to": [
             {
-              "key_code": "x"
+              "key_code": "z"
             }
           ]
         },
@@ -570,7 +570,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "q"
             }
           ]
         },
@@ -615,7 +615,7 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "b"
             }
           ]
         },
@@ -663,7 +663,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "v"
             }
           ]
         },
@@ -687,7 +687,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "p"
             }
           ]
         },
@@ -735,7 +735,7 @@
           },
           "to": [
             {
-              "key_code": "semicolon"
+              "key_code": "x"
             }
           ]
         },
@@ -759,7 +759,7 @@
           },
           "to": [
             {
-              "key_code": "period"
+              "key_code": "semicolon"
             }
           ]
         }
