@@ -380,7 +380,7 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "b"
             }
           ]
         },
@@ -615,7 +615,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "v"
             }
           ]
         },
@@ -663,7 +663,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "p"
             }
           ]
         },
