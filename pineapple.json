@@ -93,7 +93,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "m"
+                            "key_code": "g"
                         }
                     ]
                 },
@@ -141,7 +141,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "q"
+                            "key_code": "j"
                         }
                     ]
                 },
@@ -523,7 +523,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "z"
+                            "key_code": "x"
                         }
                     ]
                 },
@@ -546,7 +546,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "x"
+                            "key_code": "z"
                         }
                     ]
                 },
@@ -568,7 +568,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "g"
+                            "key_code": "m"
                         }
                     ]
                 },
@@ -615,7 +615,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "q"
                         }
                     ]
                 },
