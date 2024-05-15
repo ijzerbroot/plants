@@ -547,7 +547,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "x"
             }
           ]
         },
@@ -570,7 +570,7 @@
           },
           "to": [
             {
-              "key_code": "q"
+              "key_code": "z"
             }
           ]
         },
@@ -615,7 +615,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "p"
             }
           ]
         },
@@ -639,7 +639,7 @@
           },
           "to": [
             {
-              "key_code": "j"
+              "key_code": "q"
             }
           ]
         },
@@ -663,7 +663,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "b"
             }
           ]
         },
@@ -687,7 +687,7 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "v"
             }
           ]
         },
@@ -711,7 +711,7 @@
           },
           "to": [
             {
-              "key_code": "slash"
+              "key_code": "j"
             }
           ]
         },
@@ -735,7 +735,7 @@
           },
           "to": [
             {
-              "key_code": "x"
+              "key_code": "slash"
             }
           ]
         },
