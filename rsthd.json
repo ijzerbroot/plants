@@ -165,7 +165,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "w"
                         }
                     ]
                 },
@@ -663,7 +663,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "w"
+                            "key_code": "l"
                         }
                     ]
                 },
