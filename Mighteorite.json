@@ -117,7 +117,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "v"
+                            "key_code": "k"
                         }
                     ]
                 },
@@ -189,7 +189,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "o"
+                            "key_code": "i"
                         }
                     ]
                 },
@@ -213,7 +213,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "u"
+                            "key_code": "o"
                         }
                     ]
                 },
@@ -261,7 +261,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "r"
+                            "key_code": "n"
                         }
                     ]
                 },
@@ -285,7 +285,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "n"
+                            "key_code": "r"
                         }
                     ]
                 },
@@ -452,7 +452,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "i"
+                            "key_code": "a"
                         }
                     ]
                 },
@@ -476,7 +476,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "a"
+                            "key_code": "u"
                         }
                     ]
                 },
@@ -591,7 +591,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "p"
+                            "key_code": "v"
                         }
                     ]
                 },
@@ -639,7 +639,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "k"
+                            "key_code": "p"
                         }
                     ]
                 },
