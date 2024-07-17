@@ -71,7 +71,7 @@
           },
           "to": [
             {
-              "key_code": "quote"
+              "key_code": "comma"
             }
           ]
         },
@@ -1254,7 +1254,7 @@
           },
           "to": [
             {
-              "key_code": "comma"
+              "key_code": "quote"
             }
           ]
         },
