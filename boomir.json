@@ -974,7 +974,7 @@
           },
           "to": [
             {
-              "key_code": "j"
+              "key_code": "semicolon"
             }
           ]
         },
@@ -1223,7 +1223,7 @@
           },
           "to": [
             {
-              "key_code": "semicolon"
+              "key_code": "j"
             }
           ]
         },
