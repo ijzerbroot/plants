@@ -22,7 +22,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "w"
+                            "key_code": "q"
                         }
                     ]
                 },
@@ -45,7 +45,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "l"
+                            "key_code": "w"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "y"
+                            "key_code": "l"
                         }
                     ]
                 },
@@ -93,7 +93,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "p"
+                            "key_code": "m"
                         }
                     ]
                 },
@@ -141,7 +141,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "z"
+                            "key_code": "j"
                         }
                     ]
                 },
@@ -165,7 +165,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "m"
+                            "key_code": "f"
                         }
                     ]
                 },
@@ -285,7 +285,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "r"
+                            "key_code": "s"
                         }
                     ]
                 },
@@ -308,7 +308,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "s"
+                            "key_code": "r"
                         }
                     ]
                 },
@@ -356,7 +356,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "b"
+                            "key_code": "g"
                         }
                     ]
                 },
@@ -380,7 +380,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f"
+                            "key_code": "p"
                         }
                     ]
                 },
@@ -523,7 +523,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "j"
+                            "key_code": "z"
                         }
                     ]
                 },
@@ -546,7 +546,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "v"
+                            "key_code": "x"
                         }
                     ]
                 },
@@ -591,7 +591,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "g"
+                            "key_code": "v"
                         }
                     ]
                 },
@@ -615,7 +615,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "q"
+                            "key_code": "b"
                         }
                     ]
                 },
@@ -639,7 +639,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "x"
+                            "key_code": "y"
                         }
                     ]
                 },
@@ -687,7 +687,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "slash"
+                            "key_code": "comma"
                         }
                     ]
                 },
@@ -711,7 +711,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "comma"
+                            "key_code": "period"
                         }
                     ]
                 },
@@ -735,7 +735,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "period"
+                            "key_code": "slash"
                         }
                     ]
                 }
