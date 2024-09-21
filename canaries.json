@@ -141,7 +141,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "semicolon"
+                            "key_code": "x"
                         }
                     ]
                 },
@@ -165,7 +165,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "m"
+                            "key_code": "f"
                         }
                     ]
                 },
@@ -380,7 +380,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f"
+                            "key_code": "semicolon"
                         }
                     ]
                 },
@@ -639,7 +639,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "x"
+                            "key_code": "m"
                         }
                     ]
                 },
