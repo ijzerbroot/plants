@@ -2,7 +2,7 @@
   "title": "Fire",
   "rules": [
     {
-      "description": "Fire HEAI",
+      "description": "Fire NEAI",
       "manipulators": [
         {
           "type": "basic",
@@ -261,7 +261,7 @@
           },
           "to": [
             {
-              "key_code": "n"
+              "key_code": "h"
             }
           ]
         },
@@ -404,7 +404,7 @@
           },
           "to": [
             {
-              "key_code": "h"
+              "key_code": "n"
             }
           ]
         },
