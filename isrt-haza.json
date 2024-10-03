@@ -48,7 +48,7 @@
           },
           "to": [
             {
-              "key_code": "c"
+              "key_code": "w"
             }
           ]
         },
@@ -96,7 +96,7 @@
           },
           "to": [
             {
-              "key_code": "d"
+              "key_code": "m"
             }
           ]
         },
@@ -120,7 +120,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "g"
             }
           ]
         },
@@ -144,7 +144,7 @@
           },
           "to": [
             {
-              "key_code": "z"
+              "key_code": "q"
             }
           ]
         },
@@ -168,7 +168,7 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "f"
             }
           ]
         },
@@ -216,7 +216,7 @@
           },
           "to": [
             {
-              "key_code": "comma"
+              "key_code": "j"
             }
           ]
         },
@@ -240,7 +240,7 @@
           },
           "to": [
             {
-              "key_code": "k"
+              "key_code": "semicolon"
             }
           ]
         },
@@ -360,7 +360,7 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "d"
             }
           ]
         },
@@ -384,7 +384,7 @@
           },
           "to": [
             {
-              "key_code": "f"
+              "key_code": "p"
             }
           ]
         },
@@ -504,7 +504,7 @@
           },
           "to": [
             {
-              "key_code": "semicolon"
+              "key_code": "quote"
             }
           ]
         },
@@ -528,7 +528,7 @@
           },
           "to": [
             {
-              "key_code": "q"
+              "key_code": "z"
             }
           ]
         },
@@ -576,7 +576,7 @@
           },
           "to": [
             {
-              "key_code": "g"
+              "key_code": "c"
             }
           ]
         },
@@ -600,7 +600,7 @@
           },
           "to": [
             {
-              "key_code": "w"
+              "key_code": "v"
             }
           ]
         },
@@ -624,7 +624,7 @@
           },
           "to": [
             {
-              "key_code": "j"
+              "key_code": "k"
             }
           ]
         },
@@ -648,7 +648,7 @@
           },
           "to": [
             {
-              "key_code": "p"
+              "key_code": "b"
             }
           ]
         },
@@ -696,7 +696,7 @@
           },
           "to": [
             {
-              "key_code": "slash"
+              "key_code": "comma"
             }
           ]
         },
@@ -744,7 +744,7 @@
           },
           "to": [
             {
-              "key_code": "quote"
+              "key_code": "slash"
             }
           ]
         }
