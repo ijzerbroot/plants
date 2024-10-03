@@ -2,7 +2,7 @@
     "title": "IRST Haza",
     "rules": [
         {
-            "description": "IRST)",
+            "description": "IRSTHaza",
             "manipulators": [
                 {
                     "type": "basic",
@@ -96,7 +96,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "m"
+                            "key_code": "d"
                         }
                     ]
                 },
@@ -576,7 +576,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "d"
+                            "key_code": "m"
                         }
                     ]
                 },
