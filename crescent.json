@@ -1,0 +1,604 @@
+{
+  "title": "Crescent",
+  "rules": [
+    {
+      "description": "Crescent Combo layout",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "a" }, { "key_code": "s" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "w" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "a" }, { "key_code": "d" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "f" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "a" }, { "key_code": "f" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "g" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "a" }, { "key_code": "m" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "q" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "a" }, { "key_code": "j" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "quote" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "a" }, { "key_code": "k" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "3" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "a" }, { "key_code": "l" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "y" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "a" }, { "key_code": "semicolon" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "p" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "s" }, { "key_code": "d" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "x" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "s" }, { "key_code": "f" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "j" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "s" }, { "key_code": "m" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "l" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "s" }, { "key_code": "j" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "1" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "s" }, { "key_code": "k" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "2" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "s" }, { "key_code": "l" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "hyphen" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "s" }, { "key_code": "semicolon" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "comma" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "d" }, { "key_code": "f" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "d" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "d" }, { "key_code": "m" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "z" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "d" }, { "key_code": "j" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "quote" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "d" }, { "key_code": "k" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "delete_or_backspace" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "d" }, { "key_code": "l" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "v" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "d" }, { "key_code": "semicolon" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "b" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "f" }, { "key_code": "m" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "m" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "f" }, { "key_code": "j" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "return_or_enter" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "f" }, { "key_code": "k" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "tab" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "f" }, { "key_code": "l" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "k" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "f" }, { "key_code": "semicolon" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "slash" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "m" }, { "key_code": "j" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "open_bracket" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "m" }, { "key_code": "k" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "close_bracket" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "m" }, { "key_code": "l" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "h" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "m" }, { "key_code": "semicolon" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "slash" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "j" }, { "key_code": "k" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "o" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "j" }, { "key_code": "l" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "hyphen" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "j" }, { "key_code": "semicolon" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "period" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "k" }, { "key_code": "l" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "quote" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "k" }, { "key_code": "semicolon" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "semicolon" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [{ "key_code": "l" }, { "key_code": "semicolon" }],
+            "modifiers": { "optional": ["any"] }
+          },
+          "to": [{ "key_code": "semicolon" }],
+          "parameters": {
+            "basic.simultaneous_threshold_milmilliseconds": 300
+          }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "a",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "c"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "s",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "r"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "d",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "s"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "f",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "t"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "m",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "n"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "j",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "a"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "k",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "e"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "l",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "u"
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "semicolon",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "i"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
