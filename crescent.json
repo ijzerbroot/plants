@@ -597,7 +597,51 @@
               "key_code": "i"
             }
           ]
-        }
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "i",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "l"
+            }
+          ]
+        },
+         {
+          "type": "basic",
+          "from": {
+            "key_code": "e",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "m"
+            }
+          ]
+        },       
       ]
     }
   ]
