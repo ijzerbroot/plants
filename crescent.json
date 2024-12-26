@@ -340,7 +340,7 @@
             "simultaneous": [{ "key_code": "j" }, { "key_code": "k" }],
             "modifiers": { "optional": ["any"] }
           },
-          "to": [{ "key_code": "o" }],
+          "to": [{ "key_code": "j" }],
           "parameters": {
             "basic.simultaneous_threshold_milmilliseconds": 300
           }
@@ -638,10 +638,32 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "o"
             }
           ]
         },
+         {
+          "type": "basic",
+          "from": {
+            "key_code": "o",
+            "modifiers": {
+              "optional": [
+                "caps_lock",
+                "left_alt",
+                "left_shift",
+                "right_shift",
+                "right_command",
+                "right_control",
+                "right_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "m"
+            }
+          ]
+        },       
         {
           "type": "basic",
           "from": {
