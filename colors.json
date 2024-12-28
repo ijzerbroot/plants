@@ -137,7 +137,7 @@
           },
           "to": [
             {
-              "key_code": "w"
+              "key_code": "g"
             }
           ]
         },
@@ -598,7 +598,7 @@
           },
           "to": [
             {
-              "key_code": "m"
+              "key_code": "f"
             }
           ]
         },
@@ -621,7 +621,7 @@
           },
           "to": [
             {
-              "key_code": "g"
+              "key_code": "m"
             }
           ]
         },
@@ -977,7 +977,7 @@
           },
           "to": [
             {
-              "key_code": "v"
+              "key_code": "w"
             }
           ]
         },
@@ -1067,7 +1067,7 @@
           },
           "to": [
             {
-              "key_code": "f"
+              "key_code": "v"
             }
           ]
         },
