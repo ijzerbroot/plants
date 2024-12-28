@@ -137,7 +137,7 @@
           },
           "to": [
             {
-              "key_code": "g"
+              "key_code": "c"
             }
           ]
         },
@@ -924,7 +924,7 @@
           },
           "to": [
             {
-              "key_code": "c"
+              "key_code": "g"
             }
           ]
         },
