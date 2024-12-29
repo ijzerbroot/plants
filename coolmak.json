@@ -240,7 +240,7 @@
           },
           "to": [
             {
-              "key_code": "semicolon"
+              "key_code": "comma"
             }
           ]
         },
@@ -696,7 +696,7 @@
           },
           "to": [
             {
-              "key_code": "comma"
+              "key_code": "semicolon"
             }
           ]
         },
