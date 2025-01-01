@@ -72,7 +72,7 @@
           },
           "to": [
             {
-              "key_code": "d"
+              "key_code": "c"
             }
           ]
         },
@@ -96,7 +96,7 @@
           },
           "to": [
             {
-              "key_code": "c"
+              "key_code": "d"
             }
           ]
         },
@@ -120,7 +120,7 @@
           },
           "to": [
             {
-              "key_code": "g"
+              "key_code": "f"
             }
           ]
         },
@@ -360,7 +360,7 @@
           },
           "to": [
             {
-              "key_code": "f"
+              "key_code": "g"
             }
           ]
         },
