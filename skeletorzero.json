@@ -22,7 +22,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "comma"
+                            "key_code": "y"
                         }
                     ]
                 },
@@ -141,7 +141,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "v"
+                            "key_code": "comma"
                         }
                     ]
                 },
@@ -639,7 +639,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "y"
+                            "key_code": "v"
                         }
                     ]
                 },
