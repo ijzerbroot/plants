@@ -2,7 +2,7 @@
     "title": "MTGAP mirrored",
     "rules": [
         {
-            "description": "MTGAP mirrored,
+            "description": "MTGAP mirrored",
             "manipulators": [
                 {
                     "type": "basic",
